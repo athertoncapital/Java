@@ -21,7 +21,6 @@ public class Borwein
     public static void main (String[] args)
     {
 	Scanner scan = new Scanner(System.in);
-	System.out.println("Borwein 1/Pi Algorithm Test\n");
 	Borwein b = new Borwein();
 	System.out.println("Enter number of iterations ");
 	int k = scan.nextInt();
