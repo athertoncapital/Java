@@ -20,4 +20,4 @@ public static void InsertionSort(Elem[] A,int offset,int increment)
      A[j+increment] = insert_elem;
  }
 }
-//Reference: David Galles's note
+//Reference: David Galles' note
