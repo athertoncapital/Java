@@ -1,4 +1,4 @@
-;; 001A_Huffman.scm
+;; 001B_Huffman.scm
 ;;
 ;;William Chuang
 ;;Computer Science 245
