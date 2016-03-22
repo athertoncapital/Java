@@ -1,7 +1,15 @@
 ;; 001B_Huffman.scm
 ;;
 ;;William Chuang
+;; Reference: SCIP example
 ;;Computer Science 245
+;;
+;; Notions: Codes such as ASCII and Huffman codes above are known as fixed-length 
+;; codes, because they represent each symbol in the message with the same number of bits.
+;; It is sometimes advantageous to use variable-length codes, in which different symbols may
+;; be represented by different numbers of bits. For example, Morse code does not use the same
+;; number of dots and dashes for each letter of the alphabet.
+;; In particular, E, the most frequent letter, is represented by a single dot.
 ;;
 
 ;; Decoding
