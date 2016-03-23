@@ -1,10 +1,10 @@
 ;; 001B_Huffman.scm
 ;;
-;;William Chuang
+;; William Chuang
 ;; Reference: SCIP example
-;;Computer Science 245
+;; Computer Science 245
 ;;
-;; Notions: Codes such as ASCII and Huffman codes above are known as fixed-length 
+;; Notions: Codes such as ASCII and Huffman codes are known as fixed-length 
 ;; codes, because they represent each symbol in the message with the same number of bits.
 ;; It is sometimes advantageous to use variable-length codes, in which different symbols may
 ;; be represented by different numbers of bits. For example, Morse code does not use the same
